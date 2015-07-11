@@ -1,4 +1,4 @@
 # libtiff_tools
 tools library for libtiff (C/C++)
 
-distributed under the LGPS >=2.0
+distributed under the LGPL >=2.0
